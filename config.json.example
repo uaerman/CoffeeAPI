@@ -1,0 +1,7 @@
+{
+    "title": "Coffee Api",
+    "description": "Do you want a cup of coffee ?",
+    "url": "https://coffee.uaerman.dev",
+    "githuburl": "GitHub URL"
+    "port": 8080
+}
